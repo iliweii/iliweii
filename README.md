@@ -1,3 +1,3 @@
-我的github账户 [iliweii](https://github.com/iliweii/)
+<img src="https://github-readme-stats.vercel.app/api?username=iliweii&show_icons=true" />
 
-https://githubmemory.com/@iliweii
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliweii&layout=compact" />
